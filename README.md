@@ -18,6 +18,9 @@ This tool converts raw issue descriptions into structured reports with:
 
 ## 🧪 Example
 
+## 📸 App Demo
+![App Screenshot](app-demo.png)
+
 **Input:**
 Device malfunction reported during use in clinical setting
 
